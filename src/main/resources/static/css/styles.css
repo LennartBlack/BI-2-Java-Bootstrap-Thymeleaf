@@ -1,0 +1,20 @@
+body {
+    background-color: #f0f0f0;
+    color: #333;
+}
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+}
+img {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+.rounded-img{
+    border-radius: 8px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
